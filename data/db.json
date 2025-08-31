@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "customer_name": "Patrick Jones",
+      "rating": 4,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 2,
+      "customer_name": "Jessica Brown",
+      "rating": 5,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 3,
+      "customer_name": "Rachel Stokes",
+      "rating": 4,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 4,
+      "customer_name": "Kristin Brown",
+      "rating": 4,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 5,
+      "customer_name": "Frances Mora",
+      "rating": 2,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 6,
+      "customer_name": "Rachel Walls",
+      "rating": 4,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 7,
+      "customer_name": "Robin Brown",
+      "rating": 5,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 8,
+      "customer_name": "Sherri Bryant",
+      "rating": 2,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 9,
+      "customer_name": "Marcus Nichols",
+      "rating": 5,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 10,
+      "customer_name": "James Smith",
+      "rating": 3,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 11,
+      "customer_name": "Emily Robinson",
+      "rating": 3,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 12,
+      "customer_name": "Kimberly Ross",
+      "rating": 5,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 13,
+      "customer_name": "Ryan Lopez",
+      "rating": 3,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 14,
+      "customer_name": "Kevin Freeman",
+      "rating": 4,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 15,
+      "customer_name": "Christina Doyle",
+      "rating": 2,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 16,
+      "customer_name": "Daniel Stephens",
+      "rating": 5,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 17,
+      "customer_name": "Rebecca Gonzalez",
+      "rating": 1,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 18,
+      "customer_name": "Wendy Campbell",
+      "rating": 4,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 19,
+      "customer_name": "Peter Harrison",
+      "rating": 3,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    },
+    {
+      "id": 20,
+      "customer_name": "Brian Jenkins",
+      "rating": 2,
+      "review_text": "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
+    }
+  ]
+}
