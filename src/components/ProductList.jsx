@@ -79,7 +79,7 @@ const ProductList = () => {
           <div className="mt-4 w-full flex flex-col items-center justify-center">
             <Link
               to={"/category/NEW ARRIVALS"}
-              className="w-full sm:w-auto px-16 py-3 font-satoshi rounded-full border border-gray-400 text-black text-xl transition-all duration-300 hover:bg-black hover:text-white hover:border-black"
+              className="w-full text-center sm:w-auto px-16 py-3 font-satoshi rounded-full border border-gray-400 text-black text-xl transition-all duration-300 hover:bg-black hover:text-white hover:border-black"
             >
               View All
             </Link>
@@ -110,7 +110,7 @@ const ProductList = () => {
           <div className="mt-4  w-full flex flex-col items-center justify-center">
             <Link
               to={"/category/TOP SELLING"}
-              className="mb-8 w-full sm:w-auto px-16 py-3 font-satoshi rounded-full border border-gray-400 text-black text-xl transition-all duration-300 hover:bg-black hover:text-white hover:border-black"
+              className="mb-8 text-center w-full sm:w-auto px-16 py-3 font-satoshi rounded-full border border-gray-400 text-black text-xl transition-all duration-300 hover:bg-black hover:text-white hover:border-black"
             >
               View All
             </Link>
